@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas Xbox - Excel
+# 📊 Dashboard de Vendas Eletrônicos - Excel
 
 ## Descrição
 Este projeto tem como objetivo transformar uma base de dados de produtos eletrônicos em um painel visual, organizado e interativo no **Microsoft Excel**. O dashboard permite análise rápida e eficiente dos principais indicadores de desempenho de vendas, auxiliando na tomada de decisão baseada em dados.
